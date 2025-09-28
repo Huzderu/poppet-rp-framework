@@ -1,11 +1,12 @@
-# Poppet - Ultra-Realistic AI Roleplay Framework
+# Poppet - Ultra-Realism Anti Slop SillyTavern Preset
 
 A comprehensive SillyTavern preset designed to eliminate common AI writing failures and enforce ultra-realistic character behavior in roleplay scenarios.
 
 ## What It Solves
 
 **Common AI Problems:**
-- Purple prose and melodramatic reactions ("words hit like a physical blow")
+- Purple prose and melodramatic reactions ("words hit like a physical blow", "Not X but Y")
+- Echoing user's words
 - Characters knowing things they shouldn't (omniscience violations)
 - Unrealistic physical capabilities
 - Plot stagnation and reactive-only responses
