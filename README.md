@@ -1,6 +1,6 @@
 # Poppet - Ultra-Realistic AI Roleplay Framework
 
-A comprehensive prompt engineering system designed to eliminate common AI writing failures and enforce ultra-realistic character behavior in roleplay scenarios.
+A comprehensive SillyTavern preset designed to eliminate common AI writing failures and enforce ultra-realistic character behavior in roleplay scenarios.
 
 ## What It Solves
 
@@ -34,4 +34,4 @@ A comprehensive prompt engineering system designed to eliminate common AI writin
 - **Anti-stagnation:** Built-in checks for plot progression and user engagement
 - **Comprehensive coverage:** Addresses technical writing, psychology, world-building, and pacing
 
-Tested primarily with Google Gemini but designed to work with any thinking instruction-following LLM.
+Tested primarily with Google Gemini but should work with any thinking instruction-following LLM (Deepseek Reasoner, GPT, Claude).
