@@ -34,4 +34,4 @@ A comprehensive prompt engineering system designed to eliminate common AI writin
 - **Anti-stagnation:** Built-in checks for plot progression and user engagement
 - **Comprehensive coverage:** Addresses technical writing, psychology, world-building, and pacing
 
-Tested primarily with Google Gemini but designed to work with any instruction-following LLM.
+Tested primarily with Google Gemini but designed to work with any thinking instruction-following LLM.
